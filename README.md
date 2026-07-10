@@ -80,9 +80,9 @@
 
 <div align="center">
 
-[![LinkedIn]((https://www.linkedin.com/in/aditya-singh-yadav-706632409))](your-linkedin-url)
-[![Instagram](https://www.instagram.com/invites/contact/?igsh=1d3fczw6u7dok&utm_content=sjc639j)](your-instagram-url)
-[![Gmail](asy2300910@gmail.com)](mailto:your@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aditya-singh-yadav-706632409))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/invites/contact/?igsh=1d3fczw6u7dok&utm_content=sjc639j))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asy2300910@gmail.com)
 
 </div>
 
