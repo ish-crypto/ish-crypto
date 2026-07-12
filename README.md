@@ -51,7 +51,7 @@
 - 🔐 Secure authentication with **JWT & Bcrypt**
 - ⚡ Built with **MERN Stack** + Tailwind CSS + Framer Motion
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)]imagify-two-lovat.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imagify-two-lovat.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ish-crypto/Imagify)
 
 ---
