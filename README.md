@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 About Me
-
 🎓 Passionate **Full Stack Developer** from India  
 💡 I love building real-world projects with **MERN Stack**  
 🤖 Currently exploring **AI integrations & DSA**  
@@ -17,7 +16,9 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,13 +27,15 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
+### Database & Backend-as-a-Service
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -43,9 +46,19 @@
 
 ## 🏆 Featured Projects
 
+### 🌊 RiverFlow — Community Q&A Platform
+> Ask questions, share knowledge, and grow your reputation — a StackOverflow-inspired developer community
+- ❓ Full Q&A system with **questions, answers, comments, and voting**
+- 🔐 Secure authentication and real-time data powered by **Appwrite**
+- 📝 Rich markdown editor for writing detailed, formatted questions
+- 🏆 Reputation system with a live **Top Contributors** leaderboard
+- 🎨 Modern, animated dark UI built with **Next.js**, Tailwind CSS & magicui
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riverflow-eight.vercel.app/)
+[![GitHub](https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ish-crypto/RiverFlow)
+
 ### 🎨 Imagify — AI Image Generator
 > Turn your imagination into stunning images instantly
-
 - 🤖 AI-powered text to image generation using **Clipdrop API**
 - 💳 Credit-based system with **Razorpay** payment integration
 - 🔐 Secure authentication with **JWT & Bcrypt**
@@ -57,11 +70,9 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
 ![Stats](https://readme-stats-ten-nu.vercel.app/api?username=ish-crypto&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ish-crypto&theme=tokyonight&hide_border=true)
 
 </div>
@@ -69,17 +80,15 @@
 ---
 
 ## 📈 Contribution Graph
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ish-crypto&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 🤝 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aditya-singh-yadav-706632409))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/invites/contact/?igsh=1d3fczw6u7dok&utm_content=sjc639j))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-singh-yadav-706632409)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?igsh=1d3fczw6u7dok&utm_content=sjc639j)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asy2300910@gmail.com)
 
 </div>
