@@ -54,7 +54,7 @@
 - 🏆 Reputation system with a live **Top Contributors** leaderboard
 - 🎨 Modern, animated dark UI built with **Next.js**, Tailwind CSS & magicui
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://riverflow-eight.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://river-flow-phi.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ish-crypto/RiverFlow)
 
 ### 🎨 Imagify — AI Image Generator
